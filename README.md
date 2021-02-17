@@ -1,3 +1,3 @@
 ## Neo Eduardo Portfolio
 
-## https://nneo.xyz
+## https://neoeduardo.github.io
