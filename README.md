@@ -1,3 +1,3 @@
 ## Neo Eduardo Portfolio
 
-## https://neoeduardo.github.io
+## https://neo.monster
