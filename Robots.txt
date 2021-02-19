@@ -7,4 +7,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /
-Sitemap: https://nneo.xyz/sitemap.xml
+Sitemap: https://neo.monster/sitemap.xml
