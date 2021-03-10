@@ -1,5 +1,1 @@
-<IfModule mod_rewrite.c>
-RewriteEngine On
-ErrorDocument 404 https://neo.monster/404/404.html
-
-</IfModule>
+Options All -Indexes ErrorDocument 404 /404/404.html
