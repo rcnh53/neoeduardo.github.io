@@ -20,4 +20,6 @@ deny from all
 </Files>
 Redirect temp neo.monster/github neo.monster/github.html
 Redirect temp neo.monster/gitlab neo.monster/gitlab.html
+Redirect temp https://neo.monster/music https://neo.monster/music.html
+Redirect temp https://neo.monster/blog https://neo.monster/blog.html
 order deny,allow
