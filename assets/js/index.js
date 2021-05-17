@@ -96,7 +96,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 3;
-Typer.file = "neo.html";
+Typer.file = "https://cdn.jsdelivr.net/gh/neoeduardo/neoeduardo.github.io/neo.html";
 Typer.init();
 
 var timer = setInterval("t();", 30);
