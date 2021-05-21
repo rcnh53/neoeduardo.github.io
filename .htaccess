@@ -10,3 +10,8 @@ AddDefaultCharset utf-8
  Header set X-Content-Type-Options nosniff
 </IfModule>
 Options -Indexes
+<Files ~ "^.(htaccess|htpasswd)$">
+deny from all
+</Files>
+ErrorDocument 404 https://neo.monster/404.html
+order deny,allow
