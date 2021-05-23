@@ -56,7 +56,7 @@ async function onHide() {
   try {
     let _ = JSON.parse(b64.decode(hash));
   } catch {
-    error("The hidden URL appears corrupted. It must be a password-protected Link Lock URL. <a href=\"https://neo.monster/link-lock\">Click here to add a password.</a>");
+    error("The hidden URL appears corrupted. It must be a password-protected Link Lock URL. <a href=\"https://neoeduardo.github.io/link-lock\">Click here to add a password.</a>");
     return;
 
     // Uncomment this to allow hiding arbitrary pages. Not secure though, so I
@@ -145,7 +145,7 @@ async function randomLink() {
 function main() {
   if (window.location.hash) {
     document.querySelector("#encrypted-url").value =
-      `https://neo.monster/link-lock/${window.location.hash}`;
+      `https://neoeduardo.github.io/link-lock/${window.location.hash}`;
 
     window.location.hash = "";
   }
