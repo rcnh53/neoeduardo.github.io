@@ -63,11 +63,11 @@ async function main() {
 
       // Set the "decrypt without redirect" URL appropriately
       document.querySelector("#no-redirect").href =
-        `https://neo.monster/link-lock/decrypt/#${hash}`;
+        `https://neoeduardo.github.io/link-lock/decrypt/#${hash}`;
 
       // Set the "create hidden bookmark" URL appropriately
       document.querySelector("#hidden").href =
-        `https://neo.monster/link-lock/hidden/#${hash}`;
+        `https://neoeduardo.github.io/link-lock/hidden/#${hash}`;
       return;
     }
 
