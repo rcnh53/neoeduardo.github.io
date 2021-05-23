@@ -113,6 +113,6 @@ function onCopy(id) {
 function main() {
   if (window.location.hash) {
     document.querySelector("#encrypted-url").value =
-      `https://neo.monster/link-lock/${window.location.hash}`;
+      `https://neoeduardo.github.io/link-lock/${window.location.hash}`;
   }
 }
