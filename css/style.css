@@ -111,7 +111,7 @@ h3 {
 .delaycontent { -webkit-animation-delay: 0.8s; animation-delay: 0.8s; }
 /* ----- content ----- */
 .photo {
-	background-image: url(../img/me.png);
+	background-image: url(../img/me.jpg);
 	background-size: 300px 100px;
 	background-repeat: no-repeat;
 	background-size: contain;
