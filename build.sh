@@ -1,3 +1,5 @@
+#!/bin/bash
+
 allowed(){
 while read line
 do

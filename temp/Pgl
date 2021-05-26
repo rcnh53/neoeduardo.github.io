@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 13 May 2021 23:01:24 GMT
-# entries:        3620
+# last updated:   Mon, 24 May 2021 08:18:25 GMT
+# entries:        3631
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 19 May 2001 00:00:00
+# start date:    Thu, 31 May 2001 00:00:00
 127.0.0.1 1-1ads.com
 127.0.0.1 101com.com
 127.0.0.1 101order.com
@@ -299,6 +299,7 @@
 127.0.0.1 adjug.com
 127.0.0.1 adjuggler.com
 127.0.0.1 adjuggler.yourdictionary.com
+127.0.0.1 adjust.com
 127.0.0.1 adjustnetwork.com
 127.0.0.1 adk2.co
 127.0.0.1 adk2.com
@@ -1025,6 +1026,7 @@
 127.0.0.1 alclick.com
 127.0.0.1 alenty.com
 127.0.0.1 alert.com.mt
+127.0.0.1 alertafterthought.com
 127.0.0.1 alexa-sitestats.s3.amazonaws.com
 127.0.0.1 alexametrics.com
 127.0.0.1 algorix.co
@@ -1357,6 +1359,7 @@
 127.0.0.1 carambo.la
 127.0.0.1 carbonads.com
 127.0.0.1 carbonads.net
+127.0.0.1 caringcast.com
 127.0.0.1 casalemedia.com
 127.0.0.1 casalmedia.com
 127.0.0.1 cash4members.com
@@ -1849,6 +1852,7 @@
 127.0.0.1 freewebcounter.com
 127.0.0.1 freewheel.com
 127.0.0.1 freewheel.tv
+127.0.0.1 freshworks.com
 127.0.0.1 frightenedpotato.com
 127.0.0.1 frtyj.com
 127.0.0.1 frtyk.com
@@ -1974,6 +1978,7 @@
 127.0.0.1 hlok.qertewrt.com
 127.0.0.1 hocgeese.com
 127.0.0.1 hollps.win
+127.0.0.1 homelycrown.com
 127.0.0.1 homepageking.de
 127.0.0.1 honeygoldfish.com
 127.0.0.1 honorablehall.com
@@ -2076,6 +2081,7 @@
 127.0.0.1 intelliads.com
 127.0.0.1 intelligenceadx.com
 127.0.0.1 intellitxt.com
+127.0.0.1 intentsify.io
 127.0.0.1 interactive.forthnet.gr
 127.0.0.1 intergi.com
 127.0.0.1 internetfuel.com
@@ -2088,7 +2094,6 @@
 127.0.0.1 ip193.cn
 127.0.0.1 iperceptions.com
 127.0.0.1 ipredictive.com
-127.0.0.1 ipro.com
 127.0.0.1 ipstack.com
 127.0.0.1 irchan.com
 127.0.0.1 ireklama.cz
@@ -2169,6 +2174,7 @@
 127.0.0.1 lemmatechnologies.com
 127.0.0.1 lettucelimit.com
 127.0.0.1 levelrate.de
+127.0.0.1 lever-analytics.com
 127.0.0.1 lfeeder.com
 127.0.0.1 lfstmedia.com
 127.0.0.1 li.alibris.com
@@ -2242,6 +2248,7 @@
 127.0.0.1 lp3tdqle.com
 127.0.0.1 lucidmedia.com
 127.0.0.1 lucklayed.info
+127.0.0.1 luckyorange.com
 127.0.0.1 lytics.io
 127.0.0.1 lzjl.com
 127.0.0.1 m.trb.com
@@ -2398,6 +2405,7 @@
 127.0.0.1 mtrcs.samba.tv
 127.0.0.1 mtree.com
 127.0.0.1 munchkin.marketo.net
+127.0.0.1 mundanepollution.com
 127.0.0.1 musiccounter.ru
 127.0.0.1 muwmedia.com
 127.0.0.1 mxptint.net
@@ -2707,7 +2715,6 @@
 127.0.0.1 prsaln.com
 127.0.0.1 prsitecheck.com
 127.0.0.1 prudencewiserelapse.com
-127.0.0.1 ps7894.com
 127.0.0.1 pstmrk.it
 127.0.0.1 ptoushoa.com
 127.0.0.1 pub.chez.com
@@ -2830,6 +2837,7 @@
 127.0.0.1 remistrainew.club
 127.0.0.1 remox.com
 127.0.0.1 republika.onet.pl
+127.0.0.1 resalag.com
 127.0.0.1 research.de.com
 127.0.0.1 resolutekey.com
 127.0.0.1 resonantbrush.com
@@ -3012,6 +3020,7 @@
 127.0.0.1 smetrics.10daily.com.au
 127.0.0.1 smetrics.bestbuy.com
 127.0.0.1 smetrics.ctv.ca
+127.0.0.1 smetrics.fedex.com
 127.0.0.1 smetrics.foxnews.com
 127.0.0.1 smetrics.walgreens.com
 127.0.0.1 smetrics.washingtonpost.com
@@ -3335,6 +3344,7 @@
 127.0.0.1 tracking01.walmart.com
 127.0.0.1 tracking101.com
 127.0.0.1 tracking22.com
+127.0.0.1 trackingfestival.com
 127.0.0.1 trackingsoft.com
 127.0.0.1 tracklink-tel.de
 127.0.0.1 trackmysales.com
@@ -3435,6 +3445,7 @@
 127.0.0.1 uu.domainforlite.com
 127.0.0.1 v1.cnzz.com
 127.0.0.1 v1adserver.com
+127.0.0.1 valerie.forbes.com
 127.0.0.1 validclick.com
 127.0.0.1 valuead.com
 127.0.0.1 valueclick.com
