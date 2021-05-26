@@ -118,13 +118,13 @@ async function onEncrypt() {
 
   const encrypted = await generateFragment(url, password, hint, useRandomSalt,
       useRandomIv);
-  const output = `https://neoeduardo.github.io/link-lock/#${encrypted}`;
+  const output = `https://neoify.github.io/link-lock/#${encrypted}`;
 
   document.querySelector("#output").value = output;
   highlight("output");
 
   // Adjust "Hidden Bookmark" link
-  document.querySelector("#bookmark").href = `https://neoeduardo.github.io/link-lock/hidden/#${encrypted}`;
+  document.querySelector("#bookmark").href = `https://neoify.github.io/link-lock/hidden/#${encrypted}`;
 
   // Adjust "Open in New Tab" link
   document.querySelector("#open").href = output;
