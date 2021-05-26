@@ -5,7 +5,7 @@ import os
 import re
 import requests
 
-BASE_URL = "https://neoeduardo.github.io"
+BASE_URL = "https://neoify.github.io"
 
 RETURN_VALUE = 0
 
