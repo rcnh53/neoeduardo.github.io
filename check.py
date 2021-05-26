@@ -9,10 +9,10 @@ BASE_URL = "https://neoify.github.io"
 
 RETURN_VALUE = 0
 
-os.chdir("docs")
+os.chdir("html")
 for filename in os.listdir():
     #print(filename + ":")
-    if ".md" in filename:
+    if ".html" in filename:
         with open(filename) as file:
             filedata = file.read()
             for link in re.findall('\[.*\]\(([^\)]*)\)', filedata):
