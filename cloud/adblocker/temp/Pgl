@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 27 May 2021 13:08:11 GMT
-# entries:        3632
+# last updated:   Sat, 05 Jun 2021 10:25:02 GMT
+# entries:        3631
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 01 Jun 2001 00:00:00
+# start date:    Tue, 12 Jun 2001 00:00:00
 127.0.0.1 1-1ads.com
 127.0.0.1 101com.com
 127.0.0.1 101order.com
@@ -51,6 +51,7 @@
 127.0.0.1 a-ads.com
 127.0.0.1 a.aproductmsg.com
 127.0.0.1 a.consumer.net
+127.0.0.1 a.klaviyo.com
 127.0.0.1 a.mktw.net
 127.0.0.1 a.muloqot.uz
 127.0.0.1 a.pub.network
@@ -374,7 +375,6 @@
 127.0.0.1 adreporting.com
 127.0.0.1 adrevolver.com
 127.0.0.1 adriver.ru
-127.0.0.1 adrolays.de
 127.0.0.1 adrotate.de
 127.0.0.1 adrotic.girlonthenet.com
 127.0.0.1 adrta.com
@@ -887,9 +887,9 @@
 127.0.0.1 adsrv.iol.co.za
 127.0.0.1 adsrv.kobi.tv
 127.0.0.1 adsrv.moebelmarkt.tv
-127.0.0.1 adsrv.swidnica24.pl
 127.0.0.1 adsrv2.swidnica24.pl
 127.0.0.1 adsrvr.org
+127.0.0.1 adsrvus.com
 127.0.0.1 adstacks.in
 127.0.0.1 adstage.io
 127.0.0.1 adstanding.com
@@ -1144,8 +1144,8 @@
 127.0.0.1 awzbijw.com
 127.0.0.1 axiomaticalley.com
 127.0.0.1 axonix.com
+127.0.0.1 ay.delivery
 127.0.0.1 aztracking.net
-127.0.0.1 b-1st.com
 127.0.0.1 ba.afl.rakuten.co.jp
 127.0.0.1 babs.tv2.dk
 127.0.0.1 backbeatmedia.com
@@ -1489,6 +1489,7 @@
 127.0.0.1 commindo-media-ressourcen.de
 127.0.0.1 commissionmonster.com
 127.0.0.1 commonswing.com
+127.0.0.1 communications.melitaltd.com
 127.0.0.1 compactbanner.com
 127.0.0.1 completecabbage.com
 127.0.0.1 complextoad.com
@@ -1753,6 +1754,8 @@
 127.0.0.1 eusta.de
 127.0.0.1 evadav.com
 127.0.0.1 evadavdsp.pro
+127.0.0.1 events-eu.freshsuccess.com
+127.0.0.1 events-us.freshsuccess.com
 127.0.0.1 everestads.net
 127.0.0.1 everesttech.net
 127.0.0.1 evergage.com
@@ -1852,7 +1855,6 @@
 127.0.0.1 freewebcounter.com
 127.0.0.1 freewheel.com
 127.0.0.1 freewheel.tv
-127.0.0.1 freshworks.com
 127.0.0.1 frightenedpotato.com
 127.0.0.1 frtyj.com
 127.0.0.1 frtyk.com
@@ -2047,7 +2049,6 @@
 127.0.0.1 improvedigital.com
 127.0.0.1 impulsehands.com
 127.0.0.1 imrworldwide.com
-127.0.0.1 inaccused.com
 127.0.0.1 incentaclick.com
 127.0.0.1 inclk.com
 127.0.0.1 incognitosearches.com
@@ -2161,7 +2162,6 @@
 127.0.0.1 launchbit.com
 127.0.0.1 layer-ad.de
 127.0.0.1 layer-ads.de
-127.0.0.1 lbn.ru
 127.0.0.1 lead-analytics.nl
 127.0.0.1 leadboltads.net
 127.0.0.1 leadclick.com
@@ -2170,7 +2170,6 @@
 127.0.0.1 leady.com
 127.0.0.1 leadzupc.com
 127.0.0.1 leaplunchroom.com
-127.0.0.1 leedsads.com
 127.0.0.1 lemmatechnologies.com
 127.0.0.1 lettucelimit.com
 127.0.0.1 levelrate.de
@@ -2201,7 +2200,6 @@
 127.0.0.1 lightcushion.com
 127.0.0.1 lightspeedcash.com
 127.0.0.1 lijit.com
-127.0.0.1 line.jzs001.cn
 127.0.0.1 link-booster.de
 127.0.0.1 link4ads.com
 127.0.0.1 linkadd.de
@@ -2219,6 +2217,7 @@
 127.0.0.1 litix.io
 127.0.0.1 liveadexchanger.com
 127.0.0.1 liveintent.com
+127.0.0.1 livelylaugh.com
 127.0.0.1 liverail.com
 127.0.0.1 lizardslaugh.com
 127.0.0.1 lkqd.com
@@ -2503,7 +2502,6 @@
 127.0.0.1 obscenesidewalk.com
 127.0.0.1 observantice.com
 127.0.0.1 oclasrv.com
-127.0.0.1 odbierz-bony.ovp.pl
 127.0.0.1 oewa.at
 127.0.0.1 offaces-butional.com
 127.0.0.1 offer.fyber.com
@@ -2759,6 +2757,7 @@
 127.0.0.1 quarterbean.com
 127.0.0.1 quarterserver.de
 127.0.0.1 questaffiliates.net
+127.0.0.1 quickkoala.io
 127.0.0.1 quicksandear.com
 127.0.0.1 quietknowledge.com
 127.0.0.1 quinst.com
@@ -2829,7 +2828,6 @@
 127.0.0.1 regularplants.com
 127.0.0.1 reklam.rfsl.se
 127.0.0.1 reklama.mironet.cz
-127.0.0.1 reklama.reflektor.cz
 127.0.0.1 reklamcsere.hu
 127.0.0.1 reklamdsp.com
 127.0.0.1 reklame.unwired-i.net
@@ -2895,7 +2893,6 @@
 127.0.0.1 rtbplatform.net
 127.0.0.1 rtbpop.com
 127.0.0.1 rtbpopd.com
-127.0.0.1 rtbsbengine.com
 127.0.0.1 rtbtradein.com
 127.0.0.1 rtmark.net
 127.0.0.1 rtpdn11.com
@@ -3218,6 +3215,7 @@
 127.0.0.1 teenyvolcano.com
 127.0.0.1 teethfan.com
 127.0.0.1 telaria.com
+127.0.0.1 telemetrics.klaviyo.com
 127.0.0.1 telemetry.dropbox.com
 127.0.0.1 telemetry.v.dropbox.com
 127.0.0.1 temelio.com
@@ -3388,6 +3386,7 @@
 127.0.0.1 triplelift.com
 127.0.0.1 triptease.io
 127.0.0.1 trix.net
+127.0.0.1 trk.bc.shutterfly.com
 127.0.0.1 trk.bee-data.com
 127.0.0.1 trk.enemy-adult-scared-there.xyz
 127.0.0.1 trk.pinterest.com
